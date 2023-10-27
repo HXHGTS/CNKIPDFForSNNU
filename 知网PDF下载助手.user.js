@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           知网PDF下载助手
 // @version        3.8.9
-// @author         Supernova
+// @author         HXHGTS
 // @description    提供知网搜索页面的直接PDF下载
 // @match          http*://*-cnki-net-s.vpn.snnu.edu.cn:8081/*
 // @match          http*://*-cnki-net-*.vpn.snnu.edu.cn:8081/*
@@ -16,7 +16,7 @@
 // @grant          unsafeWindow
 // @grant          GM_xmlhttpRequest
 // @license        MIT
-// @namespace https://github.com/supernovaZhangJiaXing/Tampermonkey/
+// @namespace https://github.com/HXHGTS/CNKIPDFForSNNU/
 // ==/UserScript==
 
 'use strict';
