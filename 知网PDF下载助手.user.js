@@ -9,7 +9,8 @@
 // @match          http*://*/defaultResult/index*
 // @match          http*://i--cnki--net--s-*.vpn.snnu.edu.cn:8081/*
 // @match          http*://*/kns8s/AdvSearch*
-// @match          http*://*/kcms/detail/detail.aspx*
+// @match          http*://*/kcms/detail/detail.aspx*'
+// @match          https://kns-cnki-net-s.vpn.snnu.edu.cn:8081/kcms2/*
 // @exclude        https://image-cnki-net-s.vpn.snnu.edu.cn:8081/*
 // @run-at         document-idle
 // @icon           https://www-cnki-net-s.vpn.snnu.edu.cn:8081/favicon.ico
